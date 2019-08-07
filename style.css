@@ -22,5 +22,6 @@ div {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+  font-style: italic;
   /* Your code here! */
 }
