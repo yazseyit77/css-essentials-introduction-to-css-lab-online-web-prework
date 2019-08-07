@@ -10,7 +10,7 @@ div {
   margin: auto;
   font-family: 'Helvetica Neue';
   background-color: white;
-  padding: 30px
+  padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
